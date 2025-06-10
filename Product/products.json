@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Kanjeevaram Silk Saree",
+    "description": "Originating from Kanchipuram, Tamil Nadu, this saree is renowned for its rich silk fabric and intricate gold zari work.",
+    "price": 1200,
+    "image": "https://lajreedesigner.com/cdn/shop/files/Aayna-5583-Zari_8_900x1350_crop_center@2x.jpg?v=1745496736"
+  },
+  {
+    "name": "Banarasi Silk Saree",
+    "description": "Hailing from Varanasi, Uttar Pradesh, Banarasi sarees are known for their opulent silk and elaborate brocade designs.",
+    "price": 1400,
+    "image": "https://www.prashantisarees.com/cdn/shop/files/NBZ0411.jpg?pad_color=fff&v=1746178293&width=940"
+  },
+  {
+    "name": "Mysore Silk Saree",
+    "description": "A classic from Karnataka, Mysore silk sarees are appreciated for their smooth texture and minimalist elegance.",
+    "price": 850,
+    "image": "https://www.prashantisarees.com/cdn/shop/files/NBZ5854.jpg?crop=center&height=720&v=1748608436&width=533"
+  },
+  {
+    "name": "Pochampally Ikat Saree",
+    "description": "From Telangana, these sarees feature distinctive geometric patterns created through the Ikat dyeing technique.",
+    "price": 600,
+    "image": "https://d1311wbk6unapo.cloudfront.net/NushopCatalogue/tr:f-webp,w-1200,fo-auto/651bf1759e77a80012948d74/cat_img/CLbxqGdG_ZVFKFX1ORT_2024-09-03_1.JPG"
+  },
+  {
+    "name": "Kasavu Saree",
+    "description": "Traditional attire from Kerala, characterized by its white fabric with golden borders, symbolizing purity and elegance.",
+    "price": 320,
+    "image": "https://lajreedesigner.com/cdn/shop/files/Aayna-5583-Zari_8_900x1350_crop_center@2x.jpg?v=1745496736"
+  },
+  {
+    "name": "Chanderi Saree",
+    "description": "Originating from Madhya Pradesh, Chanderi sarees are lightweight and known for their sheer texture and fine zari work.",
+    "price": 500,
+    "image": "https://lajreedesigner.com/cdn/shop/files/Aayna-5583-Zari_8_900x1350_crop_center@2x.jpg?v=1745496736"
+  },
+  {
+    "name": "Sambalpuri Saree",
+    "description": "A handwoven saree from Odisha, featuring traditional motifs and the unique Bandha (Ikat) dyeing technique.",
+    "price": 450,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSSuc0ABINDSwXgobcM2Nh3wfcBBYZk2htVh6Bny2-Sk0unqdqZauJFNdKyraWFMgr7nOhB4r3UIL0yzxh0KrrvxKXL211TtzMjsZ0Ri1g"
+  },
+  {
+    "name": "Paithani Saree",
+    "description": "Maharashtra's pride, Paithani sarees are known for their vibrant colors and intricate peacock motifs woven in gold thread.",
+    "price": 1000,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSN1ICnjfmDIP0F6JLOigxgPEDcIjE-8j55Zh4LXHV7mfmX9MQt6vBfwOORTPvH-H6k4x9-w-ajK3equ9ZUavE1uDTLdKNKkXZsBz3nI6s"
+  },
+  {
+    "name": "Bandhani Saree",
+    "description": "A tie-dye saree from Gujarat and Rajasthan, featuring vibrant patterns created by plucking the cloth into bindings before dyeing.",
+    "price": 3500,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTdYxu4OfJohsxYQp0UQptF4vdLRFj97MvFYEbmqtXZxuy7SmZ2zdrxy1RBiwPEYl5bcmdl2stpNCLZAib5e2dlWslZwOrVTA"
+  },
+  {
+    "name": "Baluchari Saree",
+    "description": "From West Bengal, these silk sarees are adorned with depictions of mythological scenes woven into the pallu.",
+    "price": 800,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQpWh7Jh8IYp1r-gNrhYU2Jo1bGhGbXgziI6R_F9Ym7kS8AUembpqcfcMkodXc3DFn8kUIMTtlqqNonP74YNcyWtlC6fv1XobPPBHcKMkI"
+  },
+  {
+    "name": "Tant Saree",
+    "description": "A traditional Bengali cotton saree, known for its lightness and transparency, making it ideal for the hot climate.",
+    "price": 200,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQlGTZebNIvKTdcAbz1c6LGffvKyIg26GYM6A7XOJ419m0J8AMf_ApBwio2IJ4rY_Vfy0tQEaByt2Lik7dgePgBmsr9auMJEpHNqjRcf4t1BMNgCv4bGorkJQ&usqp=CAc"
+  },
+  {
+    "name": "Kalamkari Saree",
+    "description": "Featuring hand-painted or block-printed designs, Kalamkari sarees from Andhra Pradesh depict mythological narratives and nature-inspired motifs.",
+    "price": 280,
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRIrTgAOiHPgZ64BA9NSUp0-Cum6iX2T2YSxjtLioPYUPQRZ2mprqkzu0T6x0ANa4a_ITXtK9L9OavELDU6lTZWlrEKBzBr3qUr-5k4loJF8r0Tu4sj36qrCCfZ5D-iFJDQ-usy7J0&usqp=CAc"
+  },
+  {
+    "name": "Ilkal Saree",
+    "description": "A traditional saree from Karnataka, recognized by its red to maroon borders and pallu with distinct patterns.",
+    "price": 250,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRR5kPl7aPW1jrLxjKCGEr_95TlULQXlqwX8FyHu2QYf6z3B3a-8GYRhU0Vd7QPd_VlIkXmskc5KxjUQ9wIq_Bnwd2092eJQ2NHKEYmVR2O3A-1YXxnmXhu"
+  },
+  {
+    "name": "Uppada Saree",
+    "description": "Originating from Andhra Pradesh, Uppada sarees are known for their lightweight silk and intricate Jamdani weaving technique.",
+    "price": 550,
+    "image": "https://peachmode.com/cdn/shop/files/1_HELFAB-SHARDA-YELLOW-PEACHMODE.jpg?v=1739363004&width=800"
+  },
+  {
+    "name": "Coimbatore Cotton Saree",
+    "description": "From Tamil Nadu, these cotton sarees are appreciated for their comfort and subtle designs, suitable for daily wear.",
+    "price": 160,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRy_Crhkru22aHltQmRhfwkHuwv6cjtvOB4lsXhPKzV-YV4SJpgKp3D_t93a1mgjxX8qyeZDtneCa2OhxSfR1N_4cDzqz2zBsA7r-MaOpflD0D1acZpkiXM4w&usqp=CAc"
+  }
+]
